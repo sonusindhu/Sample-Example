@@ -1,0 +1,471 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+
+body
+{
+margin:0px;
+padding:0px;
+font-family: 'Raleway', sans-serif;
+}
+
+.add {
+    margin: 5px 0;
+}
+
+.add img {
+    margin: 0 auto;
+}
+
+header
+{
+background:#cbe0c8;
+padding:20px 0px;	
+}
+
+header nav.navbar {
+    background: transparent none repeat scroll 0 0;
+    border: 0 none;
+	margin-bottom:0px;
+}
+
+header .navbar-brand
+{
+padding:0px;
+margin-top:6px;	
+}
+
+header .nav.navbar-nav {
+    float: right !important;
+}
+
+header ul li a
+{
+	text-transform:uppercase;
+	font-size:14px;
+	font-weight:600;
+	color:#42413f;
+padding:10px 15px !important;	
+margin:3px;	
+}
+
+header .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
+{
+background:#93b48e;
+color:#407638;	
+}
+
+header ul.nav.navbar-nav li a:hover
+{
+background:#93b48e;
+color:#407638;		
+}
+
+header .navbar-default .navbar-toggle .icon-bar
+{
+background:#45753C;	
+}
+
+header .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color:#93b48e;
+	border:1px solid #45753C;
+}
+
+.banner .carousel img {
+    width: 100%;
+}
+
+.banner .carousel-control.left
+{
+background-image:none;	
+}
+
+.banner .carousel-control.right
+{
+background-image:none;	
+}
+
+.banner .carousel-indicators .active {
+    background-color: #195866;
+    height: 18px;
+    width: 18px;
+	border:10px solid #195866;
+}
+
+.banner .carousel-indicators li {
+    background-color:#fff;
+    border: 1px solid #fff;
+    height: 18px;
+    width: 18px;
+}
+
+.banner
+{
+position:relative;	
+}
+
+.banner_content h1
+{
+text-align:center;
+font-size:44px;
+color:#fff;
+font-weight:600;
+}
+
+.banner_content h1 span
+{
+color:#cbe0c8;
+font-weight:900;	
+}
+
+.banner_content p
+{
+text-align:center;
+color:#fff;
+font-size:16px;
+font-weight:normal;
+line-height:30px;
+margin-top:42px;	
+}
+
+.learn {
+    text-align: center;
+	margin-top:42px;
+}
+
+.learn button {
+    background:#195866;
+    border-bottom: 5px solid #10434e !important;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 600;
+    padding: 12px 40px;
+	border:0px;
+}
+
+.learn button:hover
+{
+background:#10434e;	
+}
+
+.banner_content
+{
+position:absolute;
+top:10%;
+width:100%;	
+}
+
+.social_icons
+{
+margin:10px 0px;	
+}
+
+.social_icons ul
+{
+text-align:right;
+margin:0px;	
+}
+
+.social_icons ul li a
+{
+font-size:35px;	
+color:#195866;
+}
+
+.social_icons ul li a:hover
+{
+color:#10434e;	
+}
+
+.main_content h3
+{
+color:#fff;
+text-align:center;
+text-transform:uppercase;
+font-size:16px;
+font-weight:600;
+background:#195866;
+padding:15px 0px;
+margin:0px;	
+}
+
+.main_inner
+{
+background:#cdeaf0;
+min-height:355px;
+padding:25px 10px;	
+}
+
+.main_inner form label {
+    text-align: left !important;
+	color:#504f4f;
+	font-size:14px;
+	font-weight:700;
+}
+
+.main_inner input {
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.main_inner button
+{
+background:#1b3374;
+color:#fff;
+text-transform:uppercase;
+font-size:15px;
+font-weight:600;
+border:0px;
+border-bottom:5px solid #081d53;
+margin:30px 0px;
+margin-bottom:0px;	
+}
+
+.main_inner button:hover
+{
+background:#081d53;
+border-bottom:5px solid #081d53;
+color:#fff;	
+}
+
+.main_inner h5 {
+    line-height: 35px;
+    margin: 0;
+	font-weight:600;
+	color:#504f4f;
+}
+
+.new_label
+{
+font-weight:700;	
+}
+
+.couples_workshop
+{
+margin:15px 0px;	
+}
+
+.main_inner select
+{
+border-radius:0px;
+box-shadow:none;	
+}
+
+.registration {
+    text-align: center;
+}
+
+.main_inner a
+{
+color:#0182ac;
+font-weight:700;	
+}
+
+.main_inner p
+{
+font-weight:600;
+font-size:14px;
+color:#504f4f;
+line-height:28px;	
+}
+
+
+.main_content {
+    margin-bottom: 15px;
+}
+
+.therapy
+{
+margin-top:15px;	
+}
+
+.therapy h4
+{
+color:#fff;
+text-transform:uppercase;
+font-size:16px;
+font-weight:600;
+background:#407638;
+text-align:center;
+padding:15px 0px;
+margin:0px;	
+}
+
+.therapy img
+{
+width:100%;	
+}
+
+.new_content
+{
+background:#ebecec;
+padding:15px;	
+}
+
+.new_content p
+{
+color:#504f4f;
+font-size:14px;
+font-weight:600;
+line-height:32px	
+}
+
+.new_content p a
+{
+color:#0182ac;	
+}
+
+.principle_skills
+{
+margin-top:15px;	
+}
+
+.principle_skills h4
+{
+color:#fff;
+text-transform:uppercase;
+font-size:16px;
+font-weight:600;
+text-align:center;
+background:#407638;
+padding:15px 0px;
+margin:0px;	
+}
+
+.principle_content
+{
+background:#cbe0c8;
+padding:15px 10px;
+margin-bottom:15px;	
+}
+
+.principle_content p
+{
+color:#504f4f;
+font-size:14px;
+font-weight:normal;
+line-height:26px;	
+}
+
+.recent_blogs
+{
+margin:15px 0px;	
+}
+
+.recent_blogs h2
+{
+color:#565656;
+font-size:30px;
+font-weight:600;
+border-bottom:2px solid #565656;
+line-height:55px;	
+}
+.recent_content {
+    margin: 20px 0;
+}
+
+.recent_content img
+{
+border:1px solid #c8c6c6;
+width:170px;
+height:130px;	
+}
+
+.recent_content h6
+{
+margin:0px;
+color:#a7abab;
+font-size:14px;
+font-weight:600;	
+}
+
+.recent_content h5
+{
+color:#a7abab;
+font-size:14px;
+font-weight:600;
+font-style:italic;	
+}
+
+.recent_content h5 span
+{
+color:#195866;	
+}
+
+.recent_content p
+{
+color:#000000;
+font-size:14px;
+line-height:26px;
+font-weight:400;
+font-family: 'Open Sans', sans-serif;	
+}
+
+.recent_content p a
+{
+color:#0182ac;	
+}
+
+.recent_blogs iframe
+{
+border:5px solid #646363;
+margin-bottom:15px;	
+}
+
+.pular_vdio
+{
+margin:30px 0px;	
+}
+
+footer
+{
+background:#1b3374;
+padding:50px 0px;	
+}
+
+.logo img
+{
+margin:0px auto;	
+}
+
+.footer_nav
+{
+margin-top:25px;	
+}
+
+.footer_nav ul
+{
+text-align:center;
+margin:0px;	
+}
+.footer_nav li a
+{
+color:#fff;	
+text-transform:uppercase;
+font-weight:600;
+font-size:12px;
+}
+
+.copyright
+{
+background:#031e66;
+padding:10px 0px;	
+}
+
+.copyright p
+{
+margin:0px;
+color:#fff;
+font-size:12px;
+font-weight:500;	
+}
+
+.main_inner p a {
+    display: inline-block;
+    margin-top: 12px;
+}
+
+
+.user_left_bx p{ margin-top: 80px; }
+.user_left_bx_1 p{ margin-top: 80px; }
+

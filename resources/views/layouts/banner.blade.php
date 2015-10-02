@@ -1,0 +1,1 @@
+<div class="add"> <img src="img/add.png" class="img-responsive" /> </div>

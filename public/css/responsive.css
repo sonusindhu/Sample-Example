@@ -1,0 +1,187 @@
+@media screen and (max-width: 767px) 
+{
+   header .nav.navbar-nav {
+    float: left !important;
+	width:100%;
+}
+}
+
+
+@media (min-width: 769px) and (max-width:992px)
+{
+   .main_content h3
+   {
+	font-size:12px;   
+   }
+   
+   .main_inner {
+    padding: 10px;
+}
+
+.main_inner h5 {
+    line-height: 26px;
+	    font-size: 12px;
+}
+
+.main_inner button
+{
+margin:10px 0px;	
+}
+
+.main_inner p {
+    font-size: 12px;
+    line-height: 22px;
+}
+}
+
+@media (min-width: 993px) and (max-width:1200px)
+{
+.main_inner
+{
+padding:10px;	
+}
+
+.main_inner p {
+    font-size: 13px;
+    line-height: 24px;
+}
+.main_inner h5 {
+    font-size: 13px;
+    line-height: 30px;
+}
+}
+
+@media (min-width: 320px) and (max-width:480px)
+{
+.banner_content h1 {
+    font-size: 18px;
+    margin:0px;
+}	
+
+.banner_content p {
+   display:none;
+}
+
+.learn button {
+    font-size: 11px;
+    padding: 2px 12px;
+}
+
+.learn {
+    margin-top:20px;
+}
+
+.banner .carousel-indicators
+{
+bottom:-10px;	
+}
+
+.banner .carousel-indicators .active {
+    border: 6px solid #195866;
+    height: 10px;
+    width: 10px;
+}
+
+.banner .carousel-indicators li {
+    height: 10px;
+    width: 10px;
+}
+
+}
+
+@media (min-width: 481px) and (max-width:578px)
+{
+	.banner_content {
+    position: absolute;
+    top: 5%;
+}
+
+.banner_content h1 {
+    font-size: 18px;
+    margin-top:0px;
+}	
+
+.banner_content p {
+    font-size: 12px;
+    line-height: 14px;
+    margin-top:8px;
+}
+
+.learn
+{
+margin-top:0px;	
+}
+
+
+.learn button {
+    font-size: 14px;
+    padding: 3px 19px;
+}
+
+.banner .carousel-indicators {
+    bottom: -7px;
+}
+
+}
+
+@media (min-width: 579px) and (max-width:767px)
+{
+.banner_content h1 {
+    font-size: 22px;
+    margin-top:0px;
+}	
+
+.banner_content p {
+    font-size: 13px;
+    line-height: 18px;
+	margin-top:0px;
+}
+.learn {
+    margin-top:0px;;
+}
+.learn button {
+    font-size: 14px;
+    padding: 3px 19px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width:1200px)
+{
+.banner_content h1 {
+    font-size: 30px;
+    margin-top:0px;
+}
+
+.banner_content p {
+    line-height: 23px;
+    margin-top: 0px;
+}
+
+
+.learn {
+    margin-top: 18px;
+}
+
+header .nav.navbar-nav a {
+    font-size: 11px;
+    margin: 0 2px;
+    padding: 2px !important;
+}
+
+header a.navbar-brand img
+{
+width:120px !important;	
+}
+
+header .navbar
+{
+min-height:auto;	
+}
+
+header .navbar-brand
+{
+height:auto;	
+}
+	
+}
